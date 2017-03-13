@@ -1,4 +1,4 @@
-<h3>Two Axis Styling</h3>
+<h3>huy</h3>
 <table id="table-two-axis" class="two-axis">
     <thead>
     <tr>
